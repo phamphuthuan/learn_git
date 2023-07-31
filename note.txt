@@ -9,5 +9,9 @@ Push code  tuwf local lên remote: 3 bước
         more note
 
 *branch 
-- tạo nhánh: git checkout -b login
-- chuyển nhánh: git checkout master
+- tạo nhánh: git checkout -b tên nhánh
+- chuyển nhánh: git checkout tên nhánh
+
+*merge 
+- tạo lại commit trước khi merge
+- gộp nhánh : git merge tên nhánh
