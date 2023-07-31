@@ -1,0 +1,7 @@
+git init : khởi tạo một Repository
+
+Push code  tuwf local lên remote: 3 bước
++Chọn : git add -a (git status : show các file đã chọn)
++Xác nhận : git commit -m "nội dung commit" (kiểm tra commit : git log)
++Đẩy: lần đầu ~ git púh -u origin master
+        lần 2 trở lên ~ git Push
