@@ -5,3 +5,5 @@ Push code  tuwf local lên remote: 3 bước
 +Xác nhận : git commit -m "nội dung commit" (kiểm tra commit : git log)
 +Đẩy: lần đầu ~ git púh -u origin master
         lần 2 trở lên ~ git Push
+
+        more note
