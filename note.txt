@@ -14,4 +14,4 @@ Push code  tuwf local lên remote: 3 bước
 
 *merge 
 - tạo lại commit trước khi merge
-- gộp nhánh : git merge tên nhánh
+- gộp nhánh : git merge tên nhánh.
